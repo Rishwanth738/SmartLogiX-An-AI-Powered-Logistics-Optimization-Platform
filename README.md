@@ -106,5 +106,10 @@ This project started as a real-time **Routing Optimization System** during the C
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ---
+## Contributors
+1.Hemasurya B
+2.Anirudhan R
+3.Raghavan
+4.Anirudhan
 
 Happy Routing!
